@@ -29,7 +29,8 @@ fig = barplot.get_figure()
 
 st.pyplot(fig)
 
-#############
+##############
+st.write("https://matplotlib.org/stable/gallery/index")
 
 labels = ['G1', 'G2', 'G3', 'G4', 'G5']
 men_means = [20, 35, 30, 35, 27]
